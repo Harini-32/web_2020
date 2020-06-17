@@ -49,11 +49,12 @@ function compare(choice1) {
 
     else if (choice1 === "scissors") {
 
-        if (choice2 === "rock") {
-            alert("rock wins"  + " " + "oh no!!! Your computer is smart") ;
+        if (choice2 === "paper") {
+            alert("scissors win"  + " " + "Hurray!! you won")
+            
         }
         else {
-            alert("scissors win"  + " " + "Hurray!! you won") ;
+            alert("rock wins"  + " " + "oh no!!! Your computer is smart") ;
         }
     }
 
