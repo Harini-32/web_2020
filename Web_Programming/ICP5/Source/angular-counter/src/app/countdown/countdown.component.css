@@ -1,0 +1,48 @@
+.body{
+    background-image: url('https://newcreativeid.files.wordpress.com/2013/03/50bdb223background.jpg');
+    height: 750px;
+    width: 1000px;
+    position: absolute;
+    background-size: cover;
+
+
+}
+
+.body{
+
+   padding-left: 700px;
+   padding-top: 200px;
+}
+
+h1{
+    color:  #1c437c;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+   
+
+}
+
+p{
+    font-size: 30px;
+    
+}
+
+button{
+  background-color: #1c437c; 
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+input{
+
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
