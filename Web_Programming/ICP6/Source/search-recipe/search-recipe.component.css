@@ -1,0 +1,64 @@
+
+
+.child-container {
+  color: ghostwhite;
+  font-family: "Arial Rounded MT Bold";
+  text-align: center;
+  position: center;
+  padding-top: 80px;
+}
+.desc {
+  font-family: cursive;
+  font-size: 17px;
+}
+
+.thumbnail {
+  box-shadow: 0 4px 8px 0 rgba(187, 36, 36, 0.123);
+  transition: 0.3s;
+  min-width: 40%;
+  border-radius: 5px;
+}
+
+.thumbnail-description {
+  min-height: 40px;
+}
+
+.thumbnail:hover {
+  cursor: pointer;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 1);
+}
+
+h2{
+  color: rgb(80, 112, 27);
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+p{
+  color: rgb(223, 19, 145);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-style: italic;
+  
+}
+
+button{
+  background-color:  rgb(80, 112, 27);
+  color: white;
+  padding: 20px;
+  border-radius: 50%;
+}
+
+.panel-heading{
+
+  color: rgb(223, 19, 145);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+  font-style: italic;
+ 
+}
+
+.form-control{
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
